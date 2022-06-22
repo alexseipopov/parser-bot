@@ -1,0 +1,58 @@
+{
+    "64768534": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.08,
+        "float": "0.1411",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64774385": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.08,
+        "float": "0.7619",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64713198": {
+        "name": "Glock-18 | Catacombs",
+        "price": 0.154,
+        "float": "0.4155",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/glock-18-catacombs-well-worn/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655190000
+    },
+    "64711764": {
+        "name": "P250 | Verdigris",
+        "price": 0.154,
+        "float": "0.5939",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-p250-verdigris-battle-scarred/",
+        "sticker": true,
+        "stattrak": true,
+        "time_of_unlock": 1655190000
+    },
+    "64694660": {
+        "name": "MP5-SD | Kitbash",
+        "price": 0.172,
+        "float": "0.6018",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mp5-sd-kitbash-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64693703": {
+        "name": "AUG | Spalted Wood",
+        "price": 0.172,
+        "float": "0.1019",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/aug-spalted-wood-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "64734982": {
+        "name": "M249 | O.S.I.P.R.",
+        "price": 0.101,
+        "float": "0.0910",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/m249-o.s.i.p.r.-minimal-wear/",
+        "stattrak": false,
+        "sticker": false
+    },
+    "64734988": {
+        "name": "Negev | dev_texture",
+        "price": 0.12,
+        "float": "0.2872",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/negev-dev_texture-field-tested/",
+        "stattrak": false,
+        "sticker": false
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "64774385": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.08,
+        "float": "0.7619",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64768534": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.08,
+        "float": "0.1411",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64694937": {
+        "name": "Glock-18 | Off World",
+        "price": 0.148,
+        "float": "0.8408",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-glock-18-off-world-battle-scarred/",
+        "sticker": true,
+        "stattrak": true
+    },
+    "64713616": {
+        "name": "Dual Berettas | Shred",
+        "price": 0.154,
+        "float": "0.2231",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-dual-berettas-shred-field-tested/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655190000
+    },
+    "64714195": {
+        "name": "MP9 | Goo",
+        "price": 0.166,
+        "float": "0.5578",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mp9-goo-battle-scarred/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655190000
+    },
+    "64713803": {
+        "name": "Five-SeveN | Withered Vine",
+        "price": 0.166,
+        "float": "0.2023",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/five-seven-withered-vine-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655190000
+    }
+}

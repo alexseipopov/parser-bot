@@ -1,0 +1,40 @@
+{
+    "64734982": {
+        "name": "M249 | O.S.I.P.R.",
+        "price": 0.101,
+        "float": "0.0910",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/m249-o.s.i.p.r.-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64735011": {
+        "name": "P250 | Cyber Shell",
+        "price": 0.113,
+        "float": "0.3228",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/p250-cyber-shell-field-tested/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64672376": {
+        "name": "XM1014 | Ziggy",
+        "price": 0.182,
+        "float": "0.4159",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/xm1014-ziggy-well-worn/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1654844400
+    },
+    "64659953": {
+        "name": "G3SG1 | Keeping Tabs",
+        "price": 0.182,
+        "float": "0.0691",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/g3sg1-keeping-tabs-factory-new/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1654758000
+    }
+}

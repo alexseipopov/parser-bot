@@ -1,0 +1,40 @@
+{
+    "64734972": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.094,
+        "float": "0.1108",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64734975": {
+        "name": "M249 | O.S.I.P.R.",
+        "price": 0.101,
+        "float": "0.0833",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/m249-o.s.i.p.r.-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64657867": {
+        "name": "Galil AR | Signal",
+        "price": 0.176,
+        "float": "0.4063",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/galil-ar-signal-well-worn/",
+        "sticker": true,
+        "stattrak": false,
+        "time_of_unlock": 1654758000
+    },
+    "64660541": {
+        "name": "AWP | Capillary",
+        "price": 0.176,
+        "float": "0.1388",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/awp-capillary-minimal-wear/",
+        "sticker": true,
+        "stattrak": false,
+        "time_of_unlock": 1654758000
+    }
+}

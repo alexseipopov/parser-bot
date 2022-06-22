@@ -1,0 +1,59 @@
+{
+    "64768534": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.08,
+        "float": "0.1411",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64774385": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.08,
+        "float": "0.7619",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64694937": {
+        "name": "Glock-18 | Off World",
+        "price": 0.148,
+        "float": "0.8408",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-glock-18-off-world-battle-scarred/",
+        "sticker": true,
+        "stattrak": true
+    },
+    "64702027": {
+        "name": "P2000 | Acid Etched",
+        "price": 0.148,
+        "float": "0.9884",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/p2000-acid-etched-battle-scarred/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655103600
+    },
+    "64715784": {
+        "name": "MAG-7 | Cobalt Core",
+        "price": 0.166,
+        "float": "0.1544",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-mag-7-cobalt-core-field-tested/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655190000
+    },
+    "64701861": {
+        "name": "SG 553 | Darkwing",
+        "price": 0.166,
+        "float": "0.4240",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sg-553-darkwing-well-worn/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655103600
+    }
+}

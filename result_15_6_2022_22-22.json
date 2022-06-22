@@ -1,0 +1,599 @@
+{
+    "64746973": {
+        "name": "SCAR-20 | Enforcer",
+        "price": 0.145,
+        "float": "0.4164",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/scar-20-enforcer-well-worn/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64743313": {
+        "name": "Glock-18 | Ironwork",
+        "price": 0.145,
+        "float": "0.5727",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-glock-18-ironwork-battle-scarred/",
+        "sticker": true,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64745701": {
+        "name": "MP9 | Old Roots",
+        "price": 0.145,
+        "float": "0.4769",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mp9-old-roots-battle-scarred/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64744362": {
+        "name": "UMP-45 | Corporal",
+        "price": 0.145,
+        "float": "0.3307",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-ump-45-corporal-field-tested/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64744071": {
+        "name": "AWP | Capillary",
+        "price": 0.145,
+        "float": "0.1388",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/awp-capillary-minimal-wear/",
+        "sticker": true,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64744444": {
+        "name": "Nova | Windblown",
+        "price": 0.145,
+        "float": "0.4237",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-nova-windblown-well-worn/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64743436": {
+        "name": "XM1014 | Zombie Offensive",
+        "price": 0.145,
+        "float": "0.4391",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/xm1014-zombie-offensive-well-worn/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64734376": {
+        "name": "Sawed-Off | Apocalypto",
+        "price": 0.145,
+        "float": "0.4249",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-apocalypto-well-worn/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64747078": {
+        "name": "UMP-45 | Labyrinth",
+        "price": 0.145,
+        "float": "0.1027",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-ump-45-labyrinth-minimal-wear/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64731940": {
+        "name": "SG 553 | Darkwing",
+        "price": 0.152,
+        "float": "0.4343",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sg-553-darkwing-well-worn/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64737912": {
+        "name": "UMP-45 | Exposure",
+        "price": 0.182,
+        "float": "0.3453",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/ump-45-exposure-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64734812": {
+        "name": "XM1014 | Ziggy",
+        "price": 0.182,
+        "float": "0.2966",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/xm1014-ziggy-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64744323": {
+        "name": "Tec-9 | Jambiya",
+        "price": 0.182,
+        "float": "0.3643",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-tec-9-jambiya-field-tested/",
+        "sticker": true,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64747903": {
+        "name": "AUG | Spalted Wood",
+        "price": 0.182,
+        "float": "0.0618",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/aug-spalted-wood-factory-new/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64747741": {
+        "name": "AUG | Spalted Wood",
+        "price": 0.182,
+        "float": "0.1629",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/aug-spalted-wood-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64746063": {
+        "name": "Dual Berettas | Shred",
+        "price": 0.182,
+        "float": "0.0514",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/dual-berettas-shred-factory-new/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64734655": {
+        "name": "Negev | Terrain",
+        "price": 0.182,
+        "float": "0.3744",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-negev-terrain-field-tested/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655362800
+    },
+    "64733150": {
+        "name": "Nova | Windblown",
+        "price": 0.182,
+        "float": "0.0482",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/nova-windblown-factory-new/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64745910": {
+        "name": "P90 | Grim",
+        "price": 0.188,
+        "float": "0.1135",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/p90-grim-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64745325": {
+        "name": "PP-Bizon | Photic Zone",
+        "price": 0.188,
+        "float": "0.1091",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/pp-bizon-photic-zone-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64737147": {
+        "name": "MAC-10 | Allure",
+        "price": 0.206,
+        "float": "0.3654",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mac-10-allure-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64745983": {
+        "name": "MP5-SD | Nitro",
+        "price": 0.206,
+        "float": "0.4652",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mp5-sd-nitro-battle-scarred/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64738069": {
+        "name": "FAMAS | CaliCamo",
+        "price": 0.206,
+        "float": "0.1903",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/famas-calicamo-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64747729": {
+        "name": "P90 | Verdant Growth",
+        "price": 0.206,
+        "float": "0.1745",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/p90-verdant-growth-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64738367": {
+        "name": "MP5-SD | Nitro",
+        "price": 0.206,
+        "float": "0.3788",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mp5-sd-nitro-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64731671": {
+        "name": "CZ75-Auto | Syndicate",
+        "price": 0.206,
+        "float": "0.2785",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/cz75-auto-syndicate-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64734610": {
+        "name": "SSG 08 | Spring Twilly",
+        "price": 0.206,
+        "float": "0.0502",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/ssg-08-spring-twilly-factory-new/",
+        "sticker": true,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64745968": {
+        "name": "Dual Berettas | Switch Board",
+        "price": 0.206,
+        "float": "0.1601",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/dual-berettas-switch-board-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64746563": {
+        "name": "Tec-9 | Re-Entry",
+        "price": 0.212,
+        "float": "0.0949",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/tec-9-re-entry-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64733211": {
+        "name": "MAG-7 | Monster Call",
+        "price": 0.212,
+        "float": "0.3609",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mag-7-monster-call-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64738406": {
+        "name": "Negev | Loudmouth",
+        "price": 0.248,
+        "float": "0.2040",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/negev-loudmouth-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64734586": {
+        "name": "Desert Eagle | Light Rail",
+        "price": 0.248,
+        "float": "0.3237",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/desert-eagle-light-rail-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64806639": {
+        "name": "Souvenir PP-Bizon | Facility Sketch",
+        "price": 0.255,
+        "float": "0.0408",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/souvenir-pp-bizon-facility-sketch-factory-new/",
+        "sticker": true,
+        "stattrak": false
+    },
+    "64738070": {
+        "name": "FAMAS | CaliCamo",
+        "price": 0.255,
+        "float": "0.0603",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/famas-calicamo-factory-new/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64737968": {
+        "name": "Nova | Rust Coat",
+        "price": 0.255,
+        "float": "0.1765",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/nova-rust-coat-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64734317": {
+        "name": "SG 553 | Phantom",
+        "price": 0.255,
+        "float": "0.1115",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sg-553-phantom-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64747131": {
+        "name": "MP5-SD | Agent",
+        "price": 0.255,
+        "float": "0.2252",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mp5-sd-agent-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64744513": {
+        "name": "Tec-9 | Snek-9",
+        "price": 0.255,
+        "float": "0.1131",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-tec-9-snek-9-minimal-wear/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64733152": {
+        "name": "P2000 | Handgun",
+        "price": 0.255,
+        "float": "0.2306",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/p2000-handgun-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64745463": {
+        "name": "M249 | Aztec",
+        "price": 0.261,
+        "float": "0.1827",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/m249-aztec-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64747341": {
+        "name": "P250 | Ripple",
+        "price": 0.297,
+        "float": "0.0578",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-p250-ripple-factory-new/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64732363": {
+        "name": "Glock-18 | Weasel",
+        "price": 0.297,
+        "float": "0.1430",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/glock-18-weasel-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64744281": {
+        "name": "P250 | Nevermore",
+        "price": 0.297,
+        "float": "0.1471",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/p250-nevermore-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64732560": {
+        "name": "Galil AR | Firefight",
+        "price": 0.297,
+        "float": "0.3285",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-galil-ar-firefight-field-tested/",
+        "sticker": true,
+        "stattrak": true,
+        "time_of_unlock": 1655362800
+    },
+    "64732366": {
+        "name": "XM1014 | Black Tie",
+        "price": 0.297,
+        "float": "0.1060",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/xm1014-black-tie-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64744792": {
+        "name": "M4A4 | Magnesium",
+        "price": 0.297,
+        "float": "0.0573",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/m4a4-magnesium-factory-new/",
+        "sticker": true,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64743845": {
+        "name": "Galil AR | Signal",
+        "price": 0.297,
+        "float": "0.0730",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/galil-ar-signal-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64744793": {
+        "name": "Dual Berettas | Balance",
+        "price": 0.297,
+        "float": "0.2322",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-dual-berettas-balance-field-tested/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64745598": {
+        "name": "G3SG1 | Scavenger",
+        "price": 0.297,
+        "float": "0.5463",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-g3sg1-scavenger-battle-scarred/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64743590": {
+        "name": "Desert Eagle | Sputnik",
+        "price": 0.297,
+        "float": "0.0690",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/desert-eagle-sputnik-factory-new/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64807112": {
+        "name": "Nova | Red Quartz",
+        "price": 0.339,
+        "float": "0.2290",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/nova-red-quartz-field-tested/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64734374": {
+        "name": "SG 553 | Darkwing",
+        "price": 0.346,
+        "float": "0.4176",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-sg-553-darkwing-well-worn/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655362800
+    },
+    "64807135": {
+        "name": "Glock-18 | Red Tire",
+        "price": 0.346,
+        "float": "0.5187",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/glock-18-red-tire-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64731943": {
+        "name": "SSG 08 | Abyss",
+        "price": 0.352,
+        "float": "0.2565",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-ssg-08-abyss-field-tested/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655362800
+    },
+    "64734415": {
+        "name": "Desert Eagle | Naga",
+        "price": 0.352,
+        "float": "0.6526",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/desert-eagle-naga-battle-scarred/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64746768": {
+        "name": "XM1014 | Ziggy",
+        "price": 0.352,
+        "float": "0.5380",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-xm1014-ziggy-battle-scarred/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64745501": {
+        "name": "Sawed-Off | Full Stop",
+        "price": 0.352,
+        "float": "0.1364",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-full-stop-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    },
+    "64732817": {
+        "name": "Glock-18 | Candy Apple",
+        "price": 0.352,
+        "float": "0.1939",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/glock-18-candy-apple-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64733254": {
+        "name": "MAG-7 | Monster Call",
+        "price": 0.352,
+        "float": "0.1228",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mag-7-monster-call-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64746229": {
+        "name": "SG 553 | Tiger Moth",
+        "price": 0.352,
+        "float": "0.2504",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sg-553-tiger-moth-field-tested/",
+        "sticker": true,
+        "stattrak": false,
+        "time_of_unlock": 1655449200
+    }
+}

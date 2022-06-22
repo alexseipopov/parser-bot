@@ -1,0 +1,38 @@
+{
+    "64695471": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.096,
+        "float": "0.1071",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64695605": {
+        "name": "SG 553 | Ol' Rusty",
+        "price": 0.115,
+        "float": "0.1196",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-sg-553-ol'-rusty-minimal-wear/",
+        "sticker": false,
+        "stattrak": true
+    },
+    "64625282": {
+        "name": "MP9 | Modest Threat",
+        "price": 0.16,
+        "float": "0.0759",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-mp9-modest-threat-minimal-wear/",
+        "sticker": false,
+        "stattrak": true
+    },
+    "64625475": {
+        "name": "MP5-SD | Co-Processor",
+        "price": 0.16,
+        "float": "0.4766",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mp5-sd-co-processor-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    }
+}

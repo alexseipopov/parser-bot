@@ -1,0 +1,39 @@
+{
+    "64314794": {
+        "name": "Souvenir MP5-SD | Lab Rats",
+        "price": 0.114,
+        "float": "0.0500",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/souvenir-mp5-sd-lab-rats-factory-new/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64315000": {
+        "name": "MAC-10 | Ensnared",
+        "price": 0.122,
+        "float": "0.6960",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mac-10-ensnared-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64230070": {
+        "name": "FAMAS | Crypsis",
+        "price": 0.19,
+        "float": "0.5417",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-famas-crypsis-battle-scarred/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1651561200
+    },
+    "64200167": {
+        "name": "MP7 | Cirrus",
+        "price": 0.19,
+        "float": "0.6253",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-mp7-cirrus-battle-scarred/",
+        "sticker": false,
+        "stattrak": true
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "64734982": {
+        "name": "M249 | O.S.I.P.R.",
+        "price": 0.101,
+        "float": "0.0910",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/m249-o.s.i.p.r.-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64735012": {
+        "name": "UMP-45 | Corporal",
+        "price": 0.12,
+        "float": "0.1077",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/ump-45-corporal-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64658320": {
+        "name": "Dual Berettas | Cobalt Quartz",
+        "price": 0.183,
+        "float": "0.0492",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/dual-berettas-cobalt-quartz-factory-new/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1654758000
+    },
+    "64672376": {
+        "name": "XM1014 | Ziggy",
+        "price": 0.183,
+        "float": "0.4159",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/xm1014-ziggy-well-worn/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1654844400
+    },
+    "64659446": {
+        "name": "MAC-10 | Button Masher",
+        "price": 0.214,
+        "float": "0.1428",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mac-10-button-masher-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1654758000
+    },
+    "64660085": {
+        "name": "SG 553 | Triarch",
+        "price": 0.214,
+        "float": "0.4369",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-sg-553-triarch-well-worn/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1654758000
+    }
+}

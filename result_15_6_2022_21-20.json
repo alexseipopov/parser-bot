@@ -1,0 +1,60 @@
+{
+    "64805552": {
+        "name": "MAG-7 | Foresight",
+        "price": 0.085,
+        "float": "0.1032",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mag-7-foresight-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64805617": {
+        "name": "Nova | Windblown",
+        "price": 0.091,
+        "float": "0.1312",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/nova-windblown-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64734655": {
+        "name": "Negev | Terrain",
+        "price": 0.17,
+        "float": "0.3744",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-negev-terrain-field-tested/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655362800
+    },
+    "64746824": {
+        "name": "MP7 | Urban Hazard",
+        "price": 0.17,
+        "float": "0.1157",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-mp7-urban-hazard-minimal-wear/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655449200
+    },
+    "64734502": {
+        "name": "UMP-45 | Moonrise",
+        "price": 0.2,
+        "float": "0.3836",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/ump-45-moonrise-well-worn/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    },
+    "64737886": {
+        "name": "MP5-SD | Kitbash",
+        "price": 0.2,
+        "float": "0.2893",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mp5-sd-kitbash-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655362800
+    }
+}

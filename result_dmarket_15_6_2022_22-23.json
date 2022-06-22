@@ -1,0 +1,24 @@
+{
+    "64743313": {
+        "name": "Glock-18 | Ironwork",
+        "price": 0.145,
+        "float": "0.5727",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-glock-18-ironwork-battle-scarred/",
+        "sticker": true,
+        "stattrak": true,
+        "price_dmarket": 1.0,
+        "time_of_unlock": 1655449200
+    },
+    "64744071": {
+        "name": "AWP | Capillary",
+        "price": 0.145,
+        "float": "0.1388",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/awp-capillary-minimal-wear/",
+        "sticker": true,
+        "stattrak": false,
+        "price_dmarket": 1.0,
+        "time_of_unlock": 1655449200
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "64695706": {
+        "name": "Negev | dev_texture",
+        "price": 0.115,
+        "float": "0.2420",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/negev-dev_texture-field-tested/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64695605": {
+        "name": "SG 553 | Ol' Rusty",
+        "price": 0.115,
+        "float": "0.1196",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-sg-553-ol'-rusty-minimal-wear/",
+        "sticker": false,
+        "stattrak": true
+    },
+    "64631763": {
+        "name": "MAG-7 | Foresight",
+        "price": 0.16,
+        "float": "0.1789",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-mag-7-foresight-field-tested/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1654498800
+    },
+    "64632778": {
+        "name": "Glock-18 | Warhawk",
+        "price": 0.16,
+        "float": "0.2818",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-glock-18-warhawk-field-tested/",
+        "sticker": true,
+        "stattrak": true,
+        "time_of_unlock": 1654498800
+    }
+}

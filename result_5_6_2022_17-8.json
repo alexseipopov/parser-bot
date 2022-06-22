@@ -1,0 +1,38 @@
+{
+    "64695470": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.096,
+        "float": "0.1424",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64695488": {
+        "name": "Nova | Windblown",
+        "price": 0.102,
+        "float": "0.1238",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/nova-windblown-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64625703": {
+        "name": "Glock-18 | Ironwork",
+        "price": 0.16,
+        "float": "0.4236",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-glock-18-ironwork-well-worn/",
+        "sticker": false,
+        "stattrak": true
+    },
+    "64625475": {
+        "name": "MP5-SD | Co-Processor",
+        "price": 0.16,
+        "float": "0.4766",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mp5-sd-co-processor-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    }
+}

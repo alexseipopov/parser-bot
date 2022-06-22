@@ -1,0 +1,22 @@
+{
+    "64805617": {
+        "name": "Nova | Windblown",
+        "price": 0.091,
+        "float": "0.1312",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/nova-windblown-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "price_dmarket": 1.0
+    },
+    "64805625": {
+        "name": "P90 | Ash Wood",
+        "price": 0.091,
+        "float": "0.0808",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/p90-ash-wood-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "price_dmarket": 1.0
+    }
+}

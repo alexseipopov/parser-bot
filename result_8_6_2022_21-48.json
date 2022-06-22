@@ -1,0 +1,38 @@
+{
+    "64734977": {
+        "name": "Nova | Windblown",
+        "price": 0.101,
+        "float": "0.1259",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/nova-windblown-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64734981": {
+        "name": "M249 | O.S.I.P.R.",
+        "price": 0.101,
+        "float": "0.0856",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/m249-o.s.i.p.r.-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64735121": {
+        "name": "M249 | O.S.I.P.R.",
+        "price": 0.182,
+        "float": "0.2447",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-m249-o.s.i.p.r.-field-tested/",
+        "sticker": false,
+        "stattrak": true
+    },
+    "64735085": {
+        "name": "Galil AR | Akoben",
+        "price": 0.182,
+        "float": "0.1109",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/galil-ar-akoben-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    }
+}

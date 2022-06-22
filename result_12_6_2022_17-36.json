@@ -1,0 +1,59 @@
+{
+    "64768534": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.08,
+        "float": "0.1411",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64774385": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.08,
+        "float": "0.7619",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64714868": {
+        "name": "G3SG1 | Dream Glade",
+        "price": 0.154,
+        "float": "0.4333",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/g3sg1-dream-glade-well-worn/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655190000
+    },
+    "64712643": {
+        "name": "FAMAS | Survivor Z",
+        "price": 0.154,
+        "float": "0.1104",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/famas-survivor-z-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655190000
+    },
+    "64691370": {
+        "name": "Galil AR | Connexion",
+        "price": 0.166,
+        "float": "0.6798",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/galil-ar-connexion-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64701423": {
+        "name": "SG 553 | Phantom",
+        "price": 0.172,
+        "float": "0.4453",
+        "exterior": "Well-Worn",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sg-553-phantom-well-worn/",
+        "sticker": true,
+        "stattrak": false,
+        "time_of_unlock": 1655103600
+    }
+}

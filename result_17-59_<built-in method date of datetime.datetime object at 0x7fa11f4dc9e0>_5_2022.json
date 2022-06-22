@@ -1,0 +1,40 @@
+{
+    "64625812": {
+        "name": "Glock-18 | Clear Polymer",
+        "price": 0.12,
+        "float": "0.1248",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/glock-18-clear-polymer-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64625774": {
+        "name": "P2000 | Gnarled",
+        "price": 0.12,
+        "float": "0.0438",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/p2000-gnarled-factory-new/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64559742": {
+        "name": "MP7 | Urban Hazard",
+        "price": 0.19,
+        "float": "0.1071",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-mp7-urban-hazard-minimal-wear/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1653894000
+    },
+    "64568714": {
+        "name": "MAG-7 | Monster Call",
+        "price": 0.19,
+        "float": "0.7458",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/mag-7-monster-call-battle-scarred/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1653980400
+    }
+}

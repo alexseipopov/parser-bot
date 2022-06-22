@@ -1,0 +1,60 @@
+{
+    "64768534": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.08,
+        "float": "0.1411",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64774385": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.08,
+        "float": "0.7619",
+        "exterior": "Battle-Scarred",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-battle-scarred/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64705684": {
+        "name": "FAMAS | Crypsis",
+        "price": 0.154,
+        "float": "0.1749",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-famas-crypsis-field-tested/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655103600
+    },
+    "64712643": {
+        "name": "FAMAS | Survivor Z",
+        "price": 0.154,
+        "float": "0.1104",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/famas-survivor-z-minimal-wear/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655190000
+    },
+    "64702265": {
+        "name": "Negev | Desert-Strike",
+        "price": 0.166,
+        "float": "0.1416",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-negev-desert-strike-minimal-wear/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1655103600
+    },
+    "64705611": {
+        "name": "G3SG1 | Murky",
+        "price": 0.166,
+        "float": "0.2183",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/g3sg1-murky-field-tested/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1655103600
+    }
+}

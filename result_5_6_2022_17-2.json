@@ -1,0 +1,40 @@
+{
+    "64695470": {
+        "name": "Sawed-Off | Spirit Board",
+        "price": 0.096,
+        "float": "0.1424",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/sawed-off-spirit-board-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64695488": {
+        "name": "Nova | Windblown",
+        "price": 0.102,
+        "float": "0.1238",
+        "exterior": "Minimal Wear",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/nova-windblown-minimal-wear/",
+        "sticker": false,
+        "stattrak": false
+    },
+    "64639138": {
+        "name": "P2000 | Imperial",
+        "price": 0.16,
+        "float": "0.0694",
+        "exterior": "Factory New",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/p2000-imperial-factory-new/",
+        "sticker": false,
+        "stattrak": false,
+        "time_of_unlock": 1654585200
+    },
+    "64641301": {
+        "name": "SCAR-20 | Poultrygeist",
+        "price": 0.16,
+        "float": "0.2069",
+        "exterior": "Field-Tested",
+        "link_lis_skins": "https://lis-skins.ru/market/csgo/stattrak-scar-20-poultrygeist-field-tested/",
+        "sticker": false,
+        "stattrak": true,
+        "time_of_unlock": 1654585200
+    }
+}
